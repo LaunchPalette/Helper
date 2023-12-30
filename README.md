@@ -5,7 +5,7 @@ This is the repository for the helper app for [LaunchPalette](https://apps.apple
 ## Setup
 
 1. Download a release from [Releases](https://github.com/LaunchPalette/Helper/releases) > Assets.
-2. Unzip the file and place LaunchPalette Helper inside the Applications folder.
+2. Unzip (double click) the file and place LaunchPalette Helper inside the Applications folder.
 3. Open LaunchPalette Helper.
 
 ## Compatability
