@@ -12,7 +12,7 @@ This is the repository for the helper app for [LaunchPalette](https://apps.apple
 
 | LaunchPalette | LaunchPalette Helper |
 | ---- | ---- |
-| All versions | 2.0 |
+| All versions | 2.0.1 |
 
 ## Privacy
 
