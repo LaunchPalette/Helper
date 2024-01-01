@@ -1,6 +1,9 @@
-# LaunchPalette Helper
-
-This is the repository for the helper app for [LaunchPalette](https://apps.apple.com/app/6474854386).
+<p align="center">
+    <picture>
+        <source media="(prefers-color-scheme: dark)" srcset="https://github.com/LaunchPalette/Helper/blob/main/icon.png">
+        <img src="https://github.com/LaunchPalette/Helper/blob/main/icon-light.png" alt="LaunchPalette Helper" width="420"/> 
+    </picture
+</p>
 
 ## Setup
 
