@@ -13,4 +13,4 @@
 
 ## 🔒 Privacy
 
-LaunchPalette Helper never reaches out to the internet; see [Privacy Policy](https://seungwoochoe.github.io/legal/projects/launchpalette/privacy) for more information.
+LaunchPalette Helper never reaches out to the internet; see [Privacy Policy](https://seungwoochoe.github.io/legal/launchpalette/privacy) for more information.
